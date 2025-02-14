@@ -1,0 +1,9 @@
+.done {
+    text-decoration: line-through;
+}
+
+.view {
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+}
